@@ -28,4 +28,8 @@ Outlet_Location_Type: The type of city in which the store is located
 
 Outlet_Type: Whether the outlet is just a grocery store or some sort of supermarket
 
-Item_Outlet_Sales: Sales of the product in the particular store. This is the outcome variable to be predicted.
+Item_Outlet_Sales: Sales of the product in the particular store. This is the outcome variable to be predicted
+
+# CALCULATED FIELD:
+
+Outlet_Age: Calculated using difference between Outlet_Establishment_Year and current Year(2024).
