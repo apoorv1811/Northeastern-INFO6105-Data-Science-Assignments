@@ -2,7 +2,7 @@
 
 # ABSTRACT
 
-The data analysts at BigMart have collected sales data of Fiscal Year 2013 for different products across multiple stores. The collected data includes some imporatant attributes of the product like fat content, weight, visibility etc.
+The data analysts at BigMart have collected sales data of Fiscal Year 2017 for different products across multiple stores. The collected data includes some imporatant attributes of the product like fat content, weight, visibility etc.
 
 # VARIABLE DESCRIPTION:
 
